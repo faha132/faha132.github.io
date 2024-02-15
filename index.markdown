@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+I give this plugin two :+1:!
+it's raining :cat:s and :dog:s!
